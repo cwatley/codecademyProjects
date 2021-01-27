@@ -96,7 +96,7 @@ function idInvalidCardCompanies(invalidNumbers){
 idInvalidCardCompanies(findInvalidCards(batch));
 
 
-
+console.log('test edit for GitHub');
 
 
 
