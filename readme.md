@@ -1,5 +1,7 @@
 # codecademyProjects
 
+## All js so far, but more to come
+
 1. credit-card-checker-starter
     * Luhn checksum project
     * Array focused exercises
