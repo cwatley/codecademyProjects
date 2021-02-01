@@ -18,3 +18,5 @@
 2. Schedule - 7 tasks in Codecademy kanban board, I should be able to complete at least 3 per day.  Starting 2021/2/1.
 
 ### Execution Log
+
+* Pulled a list of S&P 100 from Wikipedia, formatted/concatenated in Excel to be nested array of [total array ['ticker symbol', 'company name'], ...]
