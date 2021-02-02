@@ -20,3 +20,6 @@
 ### Execution Log
 
 * Pulled a list of S&P 100 from Wikipedia, formatted/concatenated in Excel to be nested array of [total array ['ticker symbol', 'company name'], ...]
+* Added whether bid or ask, price, and number of shares randomizer.
+* Added magic 8 ball phrases
+* put it all together with lookIntoTheEightBall function
