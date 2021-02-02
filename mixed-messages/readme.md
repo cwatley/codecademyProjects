@@ -7,7 +7,7 @@
 * Command Line Practice
 * Build in self-configured local development environment
 
-## Requirements:
+## Requirements
 
 * Every time a user runs a program, they should get a new, randomized output.
 * The message that it outputs should be made up of at least three different pieces of data.
@@ -22,4 +22,4 @@
 * Pulled a list of S&P 100 from Wikipedia, formatted/concatenated in Excel to be nested array of [total array ['ticker symbol', 'company name'], ...]
 * Added whether bid or ask, price, and number of shares randomizer.
 * Added magic 8 ball phrases
-* put it all together with lookIntoTheEightBall function
+* Put it all together with lookIntoTheEightBall function
