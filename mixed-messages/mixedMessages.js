@@ -6,9 +6,9 @@ let tickerArray = [['AAPL', 'Apple Inc.'], ['ABBV', 'AbbVie Inc.'], ['ABT', 'Abb
 function bidAskSizeQuote() {
     let bidAsk;
     if ((Math.random() > .5)){
-        bidAsk = 'Bid';
+        bidAsk = 'bid';
     } else {
-        bidAsk = 'Ask';
+        bidAsk = 'ask';
     };
     let size = (Math.round((Math.random() * 8)+1) * 100);
     let num = (Math.random() * 200)
@@ -16,5 +16,17 @@ function bidAskSizeQuote() {
     return `${bidAsk} ${size} shares @ $${quote}`
 } 
 
+//console.log(bidAskSizeQuote());
+
+
 let eightBallArray = ['It is certain', 'It is decidedly so', 'Without a doubt', 'Yes--definitely', 'You may rely on it', 'As I see it, yes', 'Most likely', 'Outlook good', 'Yes', 'Signs point to yes', 'Reply hazy, try again.', 'Ask again later', 'Better not tell you now', 'Cannot predict now', 'Concentrate and ask again', "Don't count on it", 'My reply is no', 'My sources say no', 'Outlook not so good', 'Very Doubtful'];
 
+function lookIntoTheEightBall() {
+    let rand1 = (Math.floor(Math.random()*100)); 
+    let ticker = tickerArray[rand1][0];
+    let name = tickerArray[rand1][1];
+    let eightBallReply = eightBallArray[(Math.floor(Math.random()*20))];
+    console.log(`Should I ${bidAskSizeQuote()} of ${ticker}, ${name}? ${eightBallReply}!`)
+};
+
+lookIntoTheEightBall();
