@@ -2,6 +2,8 @@
 
 ## All js so far, but more to come
 
+### Now with HTML/CSS
+
 1. credit-card-checker-starter
     * Luhn checksum project
     * Array focused exercises
