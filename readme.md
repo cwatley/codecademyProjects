@@ -12,7 +12,7 @@
     * Object focused exercises, esp. object methods
     * Personally found the mystery-organism-starter waaay easier than credit-card-checker-starter, but I think that was just a product of struggling through the credit card project and carrying over what I had learned.
 3. mixed-messages
-    * Memomrializing the GME event
+    * Memorializing the GME event
     * Code generates a randomized Magic 8 Ball stock pick
 4. dasmotos-arts-and-crafts
     * Branching out into HTML/CSS
