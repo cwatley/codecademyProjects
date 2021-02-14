@@ -1,0 +1,17 @@
+header {
+    font-family: Verdana;
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.app-link {
+    color: aquamarine;
+    font-size: 16px;
+}

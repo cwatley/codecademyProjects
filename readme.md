@@ -17,4 +17,3 @@
     * Pretty barebones, and what a break from the struggle-bus compared to JS!
 5. excursions
     * HTML/CSS landing page for app in development
-
