@@ -15,3 +15,6 @@
 4. dasmotos-arts-and-crafts
     * Branching out into HTML/CSS
     * Pretty barebones, and what a break from the struggle-bus compared to JS!
+5. excursions
+    * HTML/CSS landing page for app in development
+
